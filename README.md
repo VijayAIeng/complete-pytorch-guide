@@ -8,7 +8,7 @@ The goal is not only to learn PyTorch APIs, but to understand what happens under
 
 ---
 
-# Why PyTorch?
+# Why PyTorch? 
 
 PyTorch is one of the core frameworks used for modern deep learning.
 
