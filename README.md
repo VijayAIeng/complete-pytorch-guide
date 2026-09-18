@@ -1,4 +1,4 @@
-# PyTorch From Basics to Production
+# PyTorch From Basics to Production. 
 
 A hands-on exploration of PyTorch from the fundamentals of tensors and automatic differentiation to neural network training, GPU optimization, distributed training, inference, model export, and production-oriented deep learning workflows.
 
